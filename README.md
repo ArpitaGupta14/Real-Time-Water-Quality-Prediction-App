@@ -1,4 +1,4 @@
-# Real-Time-Water-Quality-Prediction-App
+
 # 💧 Real-Time Water Quality Prediction App
 
 This web application allows users to **predict water potability** in real-time based on various chemical and physical parameters. The model is trained using supervised machine learning algorithms, and the app interface is built using **Streamlit**.
